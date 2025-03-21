@@ -1,0 +1,7 @@
+The DOM API provides the classes to read and write an XML file. 
+We can create, delete, modify, and rearrange the node using the DOM API. 
+DOM parser parses the entire XML file and creates a DOM object in the memory. 
+It models an XML file in a tree structure for easy traversal and manipulation. 
+In DOM everything in an XML file is a node. The node represents a component of an 
+XML file. DOM parser is slow in process and occupies lots of memory when it loads an 
+XML file into memory.

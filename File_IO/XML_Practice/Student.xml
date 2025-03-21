@@ -1,0 +1,45 @@
+<students>
+
+    <student>
+        <name>Sathish</name>
+        <id>2302</id>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>Surendhar</name>
+        <id>2303</id>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>Sakthi</name>
+        <id>2304</id>
+        <age>21</age>
+    </student>
+
+    <student>
+        <name>Surendhar</name>
+        <id>2303</id>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>Guru</name>
+        <id>2305</id>
+        <age>22</age>
+    </student>
+    
+     <student>
+        <name>Sathish</name>
+        <id>2302</id>
+        <age>22</age>
+    </student>
+
+</students>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <name>Jeya</name>
+    <id>2036</id>
+    <age>24</age>
+</student>

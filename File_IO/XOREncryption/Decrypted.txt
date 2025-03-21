@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+The DOM API p
+ovides the classes to 
+ead and w
+ite an XML file. We can c
+eate, delete, modify, and 
+ea
+
+ange the node 
+sing the DOM API. DOM pa
+se
+ pa
+ses the enti
+e XML file and c
+eates a DOM object in the memo
+y. It models an XML file in a t
+ee st
+
+ct
+e fo
+ easy t
+ave
+sal and manip
+lation. In DOM eve
+ything in an XML file is a node. The node 
+ep
+esents a component of an XML file. DOM pa
+se
+ is slow in p
+ocess and occ
+pies lots of memo
+y when it loads an XML file into memo
+y.
+Shichan
